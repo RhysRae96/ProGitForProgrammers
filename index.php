@@ -4,6 +4,7 @@
 	header('Cache-Control: post-check=0, pre-check=0', FALSE);
 	header('Pragma: no-cache');
 ?>
+<!-- This is a test for the git lab -->
 <!doctype html>
 <html lang="en">
     <head>
