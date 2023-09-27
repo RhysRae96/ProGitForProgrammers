@@ -5,6 +5,8 @@
 	header('Pragma: no-cache');
 ?>
 <!-- This is a test for the git lab -->
+<!-- This is a test for the git lab -->
+<!-- This is a test for the git lab -->
 <!doctype html>
 <html lang="en">
     <head>
