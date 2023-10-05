@@ -13,6 +13,9 @@
 <!-- #1 method of commiting -->
 <!-- #2 method of commiting -->
 <!-- #2 method of commiting -->
+<!-- #3 method of commiting -->
+<!-- #3 method of commiting -->
+<!-- #3 method of commiting -->
 <!doctype html>
 <html lang="en">
     <head>
