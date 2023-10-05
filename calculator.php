@@ -6,6 +6,11 @@
 ?>
 <!-- This is a test for the git lab -->
 <!-- Calcualte Calculate Calculate -->
+<!-- #1 method of commiting -->
+<!-- #1 method of commiting -->
+<!-- #1 method of commiting -->
+<!-- #1 method of commiting -->
+<!-- #1 method of commiting -->
 <!doctype html>
 <html lang="en">
     <head>
